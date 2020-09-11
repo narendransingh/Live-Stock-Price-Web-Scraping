@@ -1,6 +1,8 @@
 # Live-Stock-Price-Web-Scraping
 
-Web Scraping from yahoo finance few stock prices using Beautiful Soup 4, and then plotting them using matplotlib animation. Two files to run in parallel, using pyCharm IDE. To run two python file in parallel, add the scripts in Compound Configuration. 
+Web Scraping from yahoo finance few stock prices using Beautiful Soup 4, and then plotting them using matplotlib animation. Using two files to run in parallel in pyCharm IDE. To run two python file in parallel, add the scripts in Compound Configuration. 
+
+Project reference: eMasterClassAcademy https://www.youtube.com/watch?v=_Bu6povAuSU
 
 The plot graph view below:
 
